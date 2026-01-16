@@ -1,5 +1,5 @@
 import { Instagram, Twitter, Linkedin, Mail, Shield } from 'lucide-react';
-import logoImage from 'logo.png';
+import logoImage from '7fa6b449af0658006c308e262ec964e0117dac44.png';
 
 interface FooterProps {
   onNavigate: (page: string, plan?: string) => void;
