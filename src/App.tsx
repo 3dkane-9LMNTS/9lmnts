@@ -1,6 +1,6 @@
 import { useState } from 'react';
-import { Navbar } from './components/Navbar';
-import { Footer } from './components/Footer';
+import Footer from '../components/Footer'
+import Navbar from '../components/Navbar'
 import { HomePage } from './components/HomePage';
 import { ServicesPage } from './components/ServicesPage';
 import { PricingPage } from './components/PricingPage';
